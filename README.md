@@ -16,7 +16,7 @@
 
 
 # Languages and Tools 
-[![My Skills](https://skillicons.dev/icons?i=html,py,linux,css,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,html,css,linux,nginx,mysql,powershell,raspberrypi,vscode,windows,bots,github,kali,)](https://skillicons.dev)
 
 
 # Achievements
