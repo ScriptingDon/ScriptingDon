@@ -111,17 +111,17 @@ Infrastructure
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ GitHub Stats
 
 <p align="center">
   <img
     width="390"
-    src="https://github-readme-stats.vercel.app/api?username=ScriptingDon&theme=transparent&show_icons=true&rank_icon=github&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=ScriptingDon&show_icons=true&theme=transparent&rank_icon=github&hide_border=true"
     alt="ScriptingDon's GitHub Stats"
   />
   <img
     width="390"
-    src="https://streak-stats.demolab.com/?user=ScriptingDon&theme=transparent&border_radius=10&locale=en"
+    src="https://streak-stats.demolab.com/?user=ScriptingDon&theme=transparent&hide_border=true"
     alt="ScriptingDon's GitHub Streak"
   />
 </p>
@@ -129,7 +129,7 @@ Infrastructure
 <p align="center">
   <img
     width="325"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ScriptingDon&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptingDon&layout=donut&theme=transparent&hide_border=true&langs_count=8"
     alt="ScriptingDon's Most Used Languages"
   />
 </p>
@@ -141,7 +141,7 @@ Infrastructure
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=ScriptingDon&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1"
-    alt="GitHub Trophies"
+    alt="ScriptingDon's GitHub Trophies"
   />
 </p>
 
