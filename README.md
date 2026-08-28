@@ -1,22 +1,27 @@
 <h1 align="center">Hello World! 👋, I'm Kai</h1>
-<h3 align="center">Devops Platform Engineering</h3>
+<h3 align="center">Kubernetes Platform Engineering</h3>
 
-- 🔭 I’m currently working on **Providing-Networks-and-Services**
+- 🔭 I’m currently working on **Developing an open-source vulnerability scanner**
 
-- 🌱 I’m currently learning **DevOps Engineering Fundamentals**
+- 🌱 I’m currently learning **Python and Ansible automation**
 
 - 📄 Know about my experiences [...]
 
 <h3 align="left">Connect with me:</h3>
 
-- 👻 Discord: **daddynoel.**
+- Mail: TBD
 
 <p align="left">
 </p>
 
 
 # Languages and Tools 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,html,css,linux,nginx,mysql,powershell,raspberrypi,vscode,windows,bots,github,kali,)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,grafanahtml,css,linux,nginx,aiscript,ai,obsidian,mysql,powershell,vscode,github,kali,)](https://skillicons.dev)
 
 
 # Achievements
