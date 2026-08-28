@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋 I'm Kai</h1>
+<h1 align="center"Kai</h1>
 
 <h3 align="center">
   Kubernetes Platform Engineering · Infrastructure · Automation · Security
@@ -22,15 +22,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 ATM
 
-* 🔭 Currently working on an **open-source vulnerability scanner**
-* 🌱 Currently learning **Python & Ansible automation**
-* ☸️ Interested in **Kubernetes, platform engineering & cloud-native infrastructure**
-* 🔐 Exploring **security, vulnerability management & infrastructure hardening**
-* ⚙️ I enjoy turning repetitive tasks into **automated workflows**
-* 🐧 Comfortable working close to **Linux systems and infrastructure**
-* 📄 Experiences & projects: **[Coming soon]**
+*  Currently working on an **open-source vulnerability scanner**
+*  Currently learning **Python & Ansible automation**
+*  Interested in **Kubernetes, platform engineering & cloud-native infrastructure**
+*  Exploring **security, vulnerability management & infrastructure hardening**
+*  I enjoy turning repetitive tasks into **automated workflows**
 
 ---
 
