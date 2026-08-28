@@ -30,7 +30,7 @@
 # Infrastructure
 I enjoy working close to the systems software runs on.
 
-  <br>
+<br>
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/33d96482a99ea7cd5957a4bbae20ed8d2046c7dbdacd464e8c74cbaf9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b756265726e657465732d3138313831423f7374796c653d666c61742d737175617265266c6f676f3d6b756265726e65746573266c6f676f436f6c6f723d7768697465" alt="Kubernetes" />
